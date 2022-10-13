@@ -1,1 +1,3 @@
-The model of the liver that we used for initialization of image segmentation. 
+ meshLiver2mm.stl is the model we used for initialization of the image segmentation method.
+ inicial01.png is a screenshot of an initialization.
+ final01.png is a screenshot of the final segmentation results.
